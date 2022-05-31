@@ -1,0 +1,72 @@
+* {
+    margin-top: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+.text {
+    background-color:whitesmoke;
+    text-align: center;
+    min-width: 100vh;
+    height: 1950px;
+    
+}
+
+.roww {
+    background-color: white;
+    
+}
+
+.roww p {
+    padding-bottom: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.list h2 {
+    text-align: center;
+    font-size: 18px;
+    padding-bottom: 25px;
+}
+
+
+
+.list li {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+    
+    
+}
+
+.list p {
+    text-align: justify;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+}
+
+.list ul {
+    width: 50%;
+    margin: auto;
+
+}
+
+.list-1 p {
+    text-align: justify;
+    font-style: italic;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 35%;
+    font-size: 12px;
+}
+
+.list-2 p {
+    font-style: italic;
+    margin-left: 15%;
+    margin-right: 47%;
+    font-size: 12px;
+    margin-bottom: 5%;
+
+}
